@@ -1,5 +1,6 @@
 ## Power BI Streaming Content Dashboard
 This project analyzes movies and TV shows data using Power BI.
+![Dashboard](dashboard.png)
 ## Files in this repository
 - `Power BI Dashboard Project – Amazon Content.pbix` – Power BI report file
 - `amazon_prime_titles.csv` – Dataset used for analysis
